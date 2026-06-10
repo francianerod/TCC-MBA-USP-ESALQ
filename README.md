@@ -1,6 +1,6 @@
-# ⚡ Níveis de Risco para Queda de Raios na Região de São José dos Campos – SP
+# Níveis de Risco para Queda de Raios na Região de São José dos Campos – SP
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório reúne os códigos desenvolvidos para o Trabalho de Conclusão de Curso (TCC) do MBA em Data Science e Analytics da USP/ESALQ.
 
@@ -10,7 +10,7 @@ A pesquisa foi desenvolvida com dados provenientes da campanha CHUVA – Vale do
 
 ---
 
-## 🎓 Informações Acadêmicas
+## Informações Acadêmicas
 
 **Título:** Níveis de risco para queda de raios na região de São José dos Campos – SP
 
@@ -26,7 +26,7 @@ A pesquisa foi desenvolvida com dados provenientes da campanha CHUVA – Vale do
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Avaliar o comportamento do campo elétrico atmosférico durante tempestades e identificar possíveis níveis de risco para ocorrência de descargas atmosféricas.
 
@@ -36,7 +36,7 @@ A pesquisa foi motivada pela seguinte questão:
 
 ---
 
-## 🌩️ Contexto
+## Contexto
 
 O Brasil é o país com maior incidência de raios do mundo, registrando aproximadamente 77,8 milhões de descargas atmosféricas por ano. Além dos riscos à vida humana, os raios geram impactos econômicos significativos em setores como energia, telecomunicações, construção civil, aviação e agronegócio.
 
@@ -44,7 +44,7 @@ Nesse contexto, sistemas de alerta baseados em sensores de campo elétrico atmos
 
 ---
 
-## 📡 Base de Dados
+## Base de Dados
 
 Os dados utilizados são provenientes da campanha:
 
@@ -60,7 +60,7 @@ Os sensores registram continuamente a intensidade do campo elétrico atmosféric
 
 ---
 
-## 🗺️ Localização dos Sensores
+## Localização dos Sensores
 
 O projeto inclui a construção de mapas interativos utilizando Python e Folium para visualização espacial da rede de sensores.
 
@@ -78,7 +78,7 @@ A maior concentração dos instrumentos encontra-se no município de São José 
 
 ---
 
-## 🔬 Metodologia
+## Metodologia
 
 O estudo foi dividido em duas abordagens complementares.
 
