@@ -115,7 +115,7 @@ A determinação do número de grupos foi realizada utilizando o Método do Coto
 
 ---
 
-## 🤖 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python
 * Pandas
@@ -128,7 +128,7 @@ A determinação do número de grupos foi realizada utilizando o Método do Coto
 
 ---
 
-## 📊 Principais Resultados
+## Principais Resultados
 
 ### Análise Estatística
 
@@ -162,7 +162,7 @@ A utilização de valores absolutos apresentou melhor interpretação física do
 
 ---
 
-## 💡 Contribuições
+## Contribuições
 
 Este trabalho demonstra o potencial da Ciência de Dados aplicada à Meteorologia e à Eletricidade Atmosférica.
 
@@ -175,7 +175,7 @@ Os resultados podem contribuir para:
 
 ---
 
-## 🔭 Trabalhos Futuros
+## Trabalhos Futuros
 
 Como continuidade da pesquisa, são sugeridos:
 
@@ -187,7 +187,7 @@ Como continuidade da pesquisa, são sugeridos:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 Franciane Rodrigues
 
